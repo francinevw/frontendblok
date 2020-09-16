@@ -42,8 +42,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
-![-eerste deel van de pagina-](images/eerstedeel.png)
-![-tweede deel van de pagina-](images/tweededeel.png)
+![eerste deel](images/eerstedeel.png)
+![tweede deel](images/tweededeel.png)
+
 
 
 ### Agenda voor meeting
