@@ -38,15 +38,17 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+-Ik heb nog best wel wat moeite met html/css dus liep bij redelijk wat puntjes lang vast, waardoor ik ook erg lang met dit kleine stukje van de website bezig ben geweest. Ben uiteindelijk wel tevreden met wat ik nu voor elkaar heb gekregen aangezien mij het nog best wat moeite gekost heeft. Ik snap nu ook wel een aantal dingen beter dan voorheen, wat fijn is. Had vooral moeten met de afbeeldingen en teksten (de verschillende sections) naast erlkaar te krijgen. Maar heb genoeg hulp aan medeleerlingen gervaagd (en aan mensen buiten school) en dat heeft zeker geholpen. -
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent-
+! [-eerste deel van de pagina-](images/pagina1.1.png)
+! [-eerste deel van de pagina-](images/pagina1.2.png)
+
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
+-we willen vragen stellen over: de navigatie bar, microinteracties en over responsive maken.-
 
 ### Verslag van meeting
 
