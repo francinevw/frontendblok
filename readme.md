@@ -30,7 +30,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+### Stand van zaken
+-Ik ben deze keer want minder ver gekomen dan de vorige keer maar heb wel een aantal dingen kunnen fixen die eerst niet goed waren gegaan. De menubalk bestaat nu wel uit apartje icoontjes en heb ze netjes naast elkaar gekregen. Ook klopt het Lush logo aan de bovenkant nu goed. Ben al een beetje aan mijn tweede pagina begonnen maar nog niet heel erg. Ik merk dat het werken met display flex oa steeds makkelijker gaat omdat ik het veel gebruik. Door de herhaling onthoud ik het allemaal goed. Moet soms wel terug kijken in mijn code hoe iets ook al weer ging maar ik vind gelukkig alles makkelijk terug.-
 
 
 
@@ -53,7 +54,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+- >de menubar icoontjes apart doen >het logo netjes krijgen met display flex -
 
 
 
