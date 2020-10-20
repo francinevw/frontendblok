@@ -32,7 +32,12 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## De laatste weken (javascript)
 
--Ben eindelijk aan mijn javascript begonnen en dat ging mij nog al moeilijk af. Ik heb veel naar de opdrachten gekeken die we voor de les moesten doen maar heb ook op het internet gezocht. Ik heb meerdere dingen geprobeerd ookal was het soms lastig omdat ik de uitwerking die ik op internet vond niet goed snapte. Uiteindelijk had ik via een van de opdrachten wel een oplossing bedacht maar wist ik niet zo goed hoe ik het moest gaan uitvoeren. Ik wist dat ik iets met toggle en iets met visibility hidden moest doen om het menu te laten verdwijen en te voorschijn te laten komen. Ik had het eerst zelf geprobeerd maar heb daarna klasgenootjes om hulp gevraagd en die hebben mij gelukkig kunnen helpen. (ik was in elk geval wel al goed op weg). JavaScript vond ik zeker weten het moeilijkste en meest frustrerende deel, puur omdat ik het nog niet zo goed begrijp. Mijn kennis van het vak programmeren was alweer een beetje weg gevaagd... -
+-Ben eindelijk aan mijn javascript begonnen en dat ging mij nog al moeilijk af. Ik heb veel naar de opdrachten gekeken die we voor de les moesten doen maar heb ook op het internet gezocht. Ik heb meerdere dingen geprobeerd ookal was het soms lastig omdat ik de uitwerking die ik op internet vond niet goed snapte. Uiteindelijk had ik via een van de opdrachten wel een oplossing bedacht maar wist ik niet zo goed hoe ik het moest gaan uitvoeren. Ik wist dat ik iets met toggle en iets met visibility hidden moest doen om het menu te laten verdwijen en te voorschijn te laten komen. Ik had het eerst zelf geprobeerd maar heb daarna klasgenootjes om hulp gevraagd en die hebben mij gelukkig kunnen helpen. (ik was in elk geval wel al goed op weg). JavaScript vond ik zeker weten het moeilijkste en meest frustrerende deel, puur omdat ik het nog niet zo goed begrijp. Mijn kennis van het vak programmeren was alweer een beetje weg gevaagd... Hieronder twee afbeeldingen met verschillende javascript en de bijbehoorende css die ik geprobeerd heb. -
+
+
+![js moeite](images/js.png)
+![css](images/css1.png)
+![css](images/css2.png)
 
 ## Voortgang 3 (week 6)
 
@@ -55,6 +60,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
+
+![1](images/eerste1.png)
+![2](images/eerste2.png)
 ![eerste deel](images/eerstedeel.png)
 ![tweede deel](images/tweededeel.png)
 
