@@ -1,9 +1,13 @@
+
+/* css header */
+
 header {
 	font-family: helvetica; 
 	background-color: black;
 	color: white;
 	padding-left: 50px; 
 	margin-bottom: 0px;
+	padding-bottom: 10px; 
 }
 
 header h1  {
@@ -27,14 +31,71 @@ header ul:nth-of-type(1) {
 	padding-left: 0px; 
 }
 
+
 ul {
 	list-style: none; 
 }
 
+
 header ul img {
 	width: 70px;
 	height: 50px;
+	cursor: pointer;
 }
+
+/* dropdown menu */
+
+/*
+.dropdownContent {
+	display: none;
+	overflow: auto;
+	z-index: 1;
+}
+
+*/
+
+.dropdownContent {
+	visibility: hidden; 
+}
+
+.dropdownContent a {
+	color: white; 
+	display: block;
+}
+
+.anders {
+	visibility: visible; 
+}
+
+button {
+	background-color: black; 
+	border: none;
+}
+
+/*
+form {
+	position:fixed;
+	left:90px; right:20px;
+	top:210px;
+	
+	transform:translateY(-100%);
+	
+	transition:.5s;
+}
+
+form.toonMenu {
+	transform:translateY(0%);
+}
+
+fieldset {
+	background-color: black; 
+
+}
+*/
+
+
+
+/* css pagina een */
 
 h3.reclame {
 	font-family: helveticaneue; 
@@ -110,6 +171,11 @@ section.bathbomb2 figcaption {
 	font-family: helveticaneue; 
 }
 
+a {
+	text-decoration: none; 
+	color: black; 
+}
+
 section.bathbomb3 figcaption {
 	font-size: 12px; 
 	font-family: helveticaneue; 
@@ -154,6 +220,7 @@ div.textbathbomb4 p {
 	color: black; 
 }
 
+/* css van pagina twee */
 
 div.irl {
 	display: flex; 
@@ -161,16 +228,73 @@ div.irl {
 
 section.textirl {
 	font-family: helvetica; 
+	padding-left: 20px; 
 }
 
 section.imgirl img {
-	width: 180px;
-	height: 180px;
+	width: 150px;
+	height: 150px; 
+	margin-left: 80px; 
+	margin-top: 50px; 
+}
+
+section.textirl h2 {
+	font-family: lush; 
+	margin-bottom: 0px; 
+}
+
+section.textirl h3 {
+	font-size: 90%;
+	margin-top: 0px;  
+}
+
+/* css footer */
+
+footer {
+	background-color: black; 
+	font-family: helvetica; 
+}
+
+div.footer {
+	display: flex;
+
+}
+
+section.footer2 {
+	position: relative;
+}
+
+section.footer2 h2 {
+	font-size: 110%; 
+	margin-left: 40px; 
+	color: white; 
+}
+
+section.footer2 ul {
+	margin-left: 0px; 
+	padding-right: 0px; 
+	color: grey
+
+}
+
+section.footer1 h2 {
+	font-size: 110%;
+	margin-left: 10px;  
+	color: white;
+}
+
+section.footer1 ul {
+	padding-right: 0px;
+	padding-left: 10px; 
+	color: grey;
 }
 
 
-
-
+section.footer3 {
+	color: white; 
+	font-size: 80%; 
+	padding-bottom: 0px; 
+}
 
 
 
