@@ -1,0 +1,424 @@
+
+/* css header */
+
+header {
+	font-family: helvetica; 
+	background-color: black;
+	color: white;
+	padding-left: 50px; 
+	margin-bottom: 0px;
+	padding-bottom: 10px; 
+}
+
+header h1  {
+	font-size: 45px;
+	padding-top: 0px; 
+	margin-top: 5px; 
+	padding-left: 30px; 
+	margin-bottom: 0px; 
+}
+
+header h3 {
+	font-size: 11px; 
+}
+
+div.header {
+	display: flex;
+}
+
+header {
+	padding-left: 30px; 
+}
+
+header ul:nth-of-type(1) {
+	display: flex; 
+	padding-left: 0px; 
+}
+
+
+ul {
+	list-style: none; 
+}
+
+
+header ul img {
+	width: 70px;
+	height: 50px;
+	cursor: pointer;
+}
+
+/* dropdown menu */
+
+/*
+.dropdownContent {
+	display: none;
+	overflow: auto;
+	z-index: 1;
+}
+
+*/
+
+.dropdownContent {
+	visibility: hidden; 
+}
+
+.dropdownContent a {
+	color: white; 
+	display: block;
+	font-family: helvetica; 
+}
+
+.anders {
+	visibility: visible; 
+	padding-bottom: 40px; 
+	margin: 10px; 
+	padding-top: 20px; 
+	font-size: 120%; 
+}
+
+button {
+	background-color: black; 
+	border: none;
+}
+
+@keyframes menu1-animation{
+  0% {
+    transform:scale(1);
+  }
+  100% {
+    transform:scale(2);
+  }
+}
+
+div a.menu1:hover {
+	animation-name:menu1-animation;
+    animation-duration:2s;
+
+}
+
+@keyframes menu2-animation{
+  0% {
+    transform:scale(1);
+  }
+  100% {
+    transform:scale(2);
+  }
+}
+
+div a.menu2:hover {
+	animation-name:menu2-animation;
+    animation-duration:2s;
+
+}
+
+@keyframes menu3-animation{
+  0% {
+    transform:scale(1);
+  }
+  100% {
+    transform:scale(2);
+  }
+}
+
+div a.menu3:hover {
+	animation-name:menu3-animation;
+    animation-duration:2s;
+
+}
+
+/*
+form {
+	position:fixed;
+	left:90px; right:20px;
+	top:210px;
+	
+	transform:translateY(-100%);
+	
+	transition:.5s;
+}
+
+form.toonMenu {
+	transform:translateY(0%);
+}
+
+fieldset {
+	background-color: black; 
+
+}
+*/
+
+
+
+/* css pagina een */
+
+h3.reclame {
+	font-family: helveticaneue, helvetica; 
+	font-size: 90%;
+	text-align: center;
+	background-color: lightgrey; 
+	margin: 0px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.bathbomb1 {
+	position: relative;
+	align-items: center;
+}
+
+div.bathbomb1 img {
+	width: 360px; 
+}
+
+
+.textbathbomb1 {
+	position: absolute;
+	color: white; 
+	padding-top: 0px; 
+	margin-bottom: 10px;
+	text-align: center;
+	padding-left: 30px; 
+	margin-top: -130px; 
+}
+
+div.textbathbomb1 h1 {
+	margin: -15px;
+	font-family: lush; 
+	font-size: 20px; 
+}
+
+div.textbathbomb1 p {
+	font-family: helveticaneue, helvetica; 
+}
+
+main h1 {
+	padding-top: 0px; 
+	font-family: helvetica; 
+}
+
+div.product1 img {
+	width: 150px;
+	height: 150px;
+}
+
+@keyframes bathbomb2-animation {
+	0% {
+		transform: scale(1);
+	}
+	40% {
+		transform: scale(2);
+	}
+}
+
+div.product1 img:hover {
+	animation-name: bathbomb2-animation; 
+	animation-duration: 1s; 
+	animation-iteration-count: 1;
+	
+}
+
+div.product1 {
+	display: flex; 
+}
+
+section.reclame1 {
+	font-size: 10px; 
+	font-family: helvetica; 
+	background-color: lightgrey; 
+	text-align: center;
+	margin-bottom: 20px;
+	margin-left: 0px;
+	padding-left: 5px; 
+	padding-right: 5px;
+
+}
+
+section.reclame1 h2 {
+	font-family: helveticaneue, helvetica; 
+	margin-top: 70px; 
+}
+
+section.bathbomb2 figcaption {
+	font-size: 12px; 
+	font-family: helveticaneue, helvetica;
+
+}
+
+
+a {
+	text-decoration: none; 
+	color: black; 
+
+}
+
+a:hover {
+	text-decoration: none; 
+	color: pink; 
+	
+}
+
+
+section.bathbomb3 figcaption {
+	font-size: 12px; 
+	font-family: helveticaneue, helvetica; 
+	cursor: pointer;
+}
+
+
+
+section.bathbomb3 img {
+	width: 150px; 
+	height: 150px; 
+	cursor: pointer;
+}
+
+@keyframes bathbomb3-animation {
+	0% {
+		transform: scale(1);
+	}
+	40% {
+		transform: scale(2);
+	}
+}
+
+section.bathbomb3 img:hover {
+	animation-name: bathbomb3-animation; 
+	animation-duration: 1s; 
+	animation-iteration-count: 1;
+	
+}
+
+figure.figure2:hover {
+	color: pink; 
+}
+
+section.bathbomb4 {
+	position: relative;
+	align-items: center; 
+}
+
+.textbathbomb4 {
+	position: absolute;
+	color: white; 
+	padding-top: 20px; 
+	margin-bottom: 10px;
+	text-align: center;
+	padding-left: 5px; 
+	padding-right: 5px;
+	margin-top: -250px; 
+	font-family: helvetica; 
+	cursor: pointer; 
+}
+
+.textbathbomb4 p:hover {
+	color: grey;
+}
+section.bathbomb4 img {
+	width: 130px;
+	height: 250px;
+}
+
+img.hoverImg:hover {
+	opacity: 40%;
+}
+
+div.product2 {
+	display: flex; 
+}
+
+div.textbathbomb4 h1 {
+	font-size: 20px;
+	color: black; 
+}
+
+div.textbathbomb4 p {
+	color: black; 
+}
+
+/* css van pagina twee */
+
+div.irl {
+	display: flex; 
+}
+
+section.textirl {
+	font-family: helvetica; 
+	padding-left: 20px; 
+}
+
+section.imgirl img {
+	width: 150px;
+	height: 150px; 
+	margin-left: 80px; 
+	margin-top: 50px; 
+}
+
+section.textirl h2 {
+	font-family: lush, helvetica; 
+	margin-bottom: 0px; 
+}
+
+section.textirl h3 {
+	font-size: 90%;
+	margin-top: 0px;  
+}
+
+/* css footer */
+
+footer {
+	background-color: black; 
+	font-family: helvetica; 
+}
+
+div.footer {
+	display: flex;
+
+}
+
+section.footer2 {
+	position: relative;
+}
+
+section.footer2 h2 {
+	font-size: 110%; 
+	margin-left: 40px; 
+	color: white; 
+}
+
+section.footer2 ul {
+	margin-left: 0px; 
+	padding-right: 0px; 
+	color: grey;
+	cursor: pointer;
+}
+
+section.footer2 li:hover {
+	color: white;
+}
+
+
+section.footer1 h2 {
+	font-size: 110%;
+	margin-left: 10px;  
+	color: white;
+}
+
+section.footer1 ul {
+	padding-right: 0px;
+	padding-left: 10px; 
+	color: grey;
+	cursor: pointer;
+}
+
+section.footer1 li:hover {
+	color: white;
+}
+
+section.footer3 {
+	color: white; 
+	font-size: 80%; 
+	padding-bottom: 0px; 
+}
+
+
+
