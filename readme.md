@@ -17,7 +17,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 8. https://freebiesupply.com/logos/ideal-logo/
 9. https://www.rvwebsolutions.nl/webdevelopment/koppelingen/klarna
 
-
+## herkansing
+-Ik moest wat extra dingen toevoegen aan de surface plane om het te halen dus dat heb ik gedaan. Ik heb hover effecten toegevoegd op text, zoals linkjes. Ook heb ik met keyframes gewerkt om animaties te creeëren, zoals bij het menu. Er zit dus zeker een stuk meer ineractie in de site. Ook heb ik overal extra font-families toegevoegd. Heb zeker weer wat bij geleerd en hoop dat het hiermee beter is. -
 
 ## Eindgesprek (week 7/8)
 
